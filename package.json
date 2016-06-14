@@ -1,0 +1,28 @@
+{
+    "name": "friendlines-nwjs",
+    "version": "0.0.1",
+    "description": "Visualizing your facebook chat history",
+    "main": "node_modules/friendlines-gui/index.html",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/symunona/friendlines-nwjs.git"
+    },
+    "keywords": [
+        "facebook",
+        "chat",
+        "history",
+        "visualisation"
+    ],
+    "author": "Bendeguy",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/symunona/friendlines-nwjs/issues"
+    },
+    "homepage": "https://github.com/symunona/friendlines-nwjs#readme",
+    "dependencies": {
+        "friendlines-gui": "git+https://git@github.com/symunona/friendlines-gui.git"
+    }
+}
