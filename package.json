@@ -23,6 +23,11 @@
     },
     "homepage": "https://github.com/symunona/friendlines-nwjs#readme",
     "dependencies": {
-        "friendlines-gui": "git+https://git@github.com/symunona/friendlines-gui.git"
+        "friendlines-gui": "git+https://git@github.com/symunona/friendlines-gui.git",
+        "friendlines-convert-1": "git+https://git@github.com/symunona/friendlines-convert-1.git",
+        "extract-messages-from-facebook-html": "git+https://git@github.com/symunona/extract-messages-from-facebook-html.git",
+        "analyze-facebook-history": "https://github.com/symunona/analyze-facebook-history.git",
+        "friendlines-convert-utils": "https://github.com/symunona/friendlines-convert-utils.git"
+
     }
 }
