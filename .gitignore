@@ -16,3 +16,4 @@ statlist.json
 temp/*
 .vscode/
 
+npm-debug.log

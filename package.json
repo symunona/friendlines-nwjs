@@ -1,6 +1,6 @@
 {
     "name": "friendlines-nwjs",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Visualizing your facebook chat history",
     "main": "node_modules/friendlines-gui/index.html",
     "scripts": {
@@ -21,15 +21,15 @@
     "bugs": {
         "url": "https://github.com/symunona/friendlines-nwjs/issues"
     },
-    "homepage": "https://github.com/symunona/friendlines-nwjs#readme",
+    "homepage": "http://friendlines.org",
     "dependencies": {
         "friendlines-gui": "git+https://git@github.com/symunona/friendlines-gui.git",
         "friendlines-convert-1": "git+https://git@github.com/symunona/friendlines-convert-1.git",
         "friendlines-convert-2": "git+https://git@github.com/symunona/friendlines-convert-2.git",
         "extract-messages-from-facebook-html": "git+https://git@github.com/symunona/extract-messages-from-facebook-html.git",
-        "analyze-facebook-history": "https://github.com/symunona/analyze-facebook-history.git",
-        "friendlines-convert-utils": "https://github.com/symunona/friendlines-convert-utils.git"
-        
+        "analyze-facebook-history": "git+https://github.com/symunona/analyze-facebook-history.git",
+        "friendlines-convert-utils": "git+https://github.com/symunona/friendlines-convert-utils.git"
+
 
     }
 }
