@@ -21,15 +21,18 @@
     "bugs": {
         "url": "https://github.com/symunona/friendlines-nwjs/issues"
     },
+    "window": {
+        "width": 800,
+        "height": 600,
+        "min_width": 700,
+        "min_height": 600
+    },
     "homepage": "http://friendlines.org",
     "dependencies": {
         "friendlines-gui": "git+https://git@github.com/symunona/friendlines-gui.git",
         "friendlines-convert-1": "git+https://git@github.com/symunona/friendlines-convert-1.git",
-        "friendlines-convert-2": "git+https://git@github.com/symunona/friendlines-convert-2.git",
         "extract-messages-from-facebook-html": "git+https://git@github.com/symunona/extract-messages-from-facebook-html.git",
         "analyze-facebook-history": "git+https://github.com/symunona/analyze-facebook-history.git",
         "friendlines-convert-utils": "git+https://github.com/symunona/friendlines-convert-utils.git"
-
-
     }
 }
